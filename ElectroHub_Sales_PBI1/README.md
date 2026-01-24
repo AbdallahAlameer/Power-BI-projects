@@ -61,4 +61,9 @@ The dashboard answers the following business questions:
 - Power Query (Data Cleaning & Transformation)  
 - DAX (Measures & Calculated Columns)
 
+- ## 📸 Dashboard Preview
+![Dashboard Overview](Screenshot 2026-01-24 191536.png)
+ 
+
+
  
