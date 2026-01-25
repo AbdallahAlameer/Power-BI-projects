@@ -11,6 +11,7 @@ Each project focuses on different aspects of data analysis, data modeling, DAX, 
 - Power Query
 - DAX
 - Excel
+- Microsoft SQL Server 
 
 ---
 
