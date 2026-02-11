@@ -41,4 +41,4 @@ Monitoring fleet status, breakdown frequency by vehicle age, and model-specific 
 3. Use the **Navigation Pane** on the left to explore different departments.
 
 ---
-**Developed as part of the Final Year Project at Faculty of Computers and Information, Ain Shams University.**
+
