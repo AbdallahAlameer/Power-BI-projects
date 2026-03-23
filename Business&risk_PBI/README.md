@@ -15,7 +15,7 @@ The goal is to answer:
 ![Overview](Business&risk_PBI/Overview.png)
 
 ### Cash Dashboard
-![Cash](Business&risk_PBI/cash_Dashboard.png)
+![Cash](Business&risk_PBI/cash_Dashboard.png) 
 
 ### Loan Dashboard
 ![Loan](Business&risk_PBI/loans_Dashboard.png)
