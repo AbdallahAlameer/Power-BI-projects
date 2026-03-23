@@ -12,13 +12,13 @@ The goal is to answer:
 ## 📷 Dashboards
 
 ### Overview Dashboard
-![Overview](Business&risk_PBI/Overview.png)
+![Overview](Overview.png)
 
 ### Cash Dashboard
-![Cash](Business&risk_PBI/cash_Dashboard.png) 
+![Cash](cash_Dashboard.png) 
 
 ### Loan Dashboard
-![Loan](Business&risk_PBI/loans_Dashboard.png)
+![Loan](loans_Dashboard.png)
 
 ## 💡 Key Insights
 
