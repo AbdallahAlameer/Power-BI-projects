@@ -12,7 +12,7 @@ The goal is to answer:
 ## 📷 Dashboards
 
 ### Overview Dashboard
-![Overview](Business&risk_PBI/overview.png)
+![Overview](Business&risk_PBI/Overview.png)
 
 ### Cash Dashboard
 ![Cash](Business&risk_PBI/cash_Dashboard.png)
